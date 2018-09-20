@@ -1,4 +1,5 @@
 package DYang;
+//Dylan(Chengjie) Yang 9/20/2018
 
 public class ProjectDescription {
     /*
@@ -16,9 +17,15 @@ public class ProjectDescription {
 	Input: Integer - number to sum up to
 	Returns: Sum of the numbers from 0 to Input
 
-	1. isFibonnaci
-	Input: Integer - number to check
-	Returns: True if in the fibonnaci sequence, False if not
+	2. multiplicationTable
+	Input: Integer base, Integer range
+	Returns: void
+	Prints: A multiplication table displaying the base*n for n = all integers from 0 to range.
+
+	3. cutOut
+	Input: 2 Strings mainStr and subStr
+	Returns: mainStr with the first occurrence of subStr removed
+	Example: cutOut(“catatonic cat”, “cat”) returns “atonic cat”
      */
 
 
